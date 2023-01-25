@@ -1,7 +1,7 @@
-### Hi there 👋
-🌱 I’m currently learning Python and SQL
-📫 How to reach me: jorge.l.lopez38@gmail.com
-⚡ Fun fact: I can juggle a soccer ball and play Bop It at the same time!
+### Hi there 👋  
+🌱 I’m currently learning Python, SQL, and Machine Learning 
+📫 How to reach me: jorge.l.lopez38@gmail.com  
+⚡ Fun fact: I can juggle a soccer ball and play Bop It at the same time!  
 
 <!--
 **jorgellopez38/jorgellopez38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
